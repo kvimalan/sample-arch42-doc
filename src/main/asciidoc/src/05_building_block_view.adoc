@@ -3,8 +3,7 @@
 
 == Building Block View
 
-= image:Java_virtual_machine.png[Java Virtual Machine]
-
+//= image:Java_virtual_machine.png[Java Virtual Machine]
 === Whitebox Overall System
 
 

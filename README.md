@@ -31,4 +31,14 @@ Suppose, if you want to add images under section (05_building_block_view.adoc)
 
 = image:Java_virtual_machine.png[Java Virtual Machine]
 
+# Template - Starting file  
+
+arc42-template.adoc
+
+# Which file to launch documentation(html)?
+
+target/generated-docs/html/arc42-template.html
+
+
+
 
