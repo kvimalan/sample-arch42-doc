@@ -1,0 +1,18 @@
+[[section-runtime-view]]
+== Runtime View
+
+
+
+
+=== <Runtime Scenario 1>
+
+
+* A message gets sent via the external RabbitMQ to the PTL_Adapter. The message gets converted and is sent to the internal RabbitMQ where Freeflow saves the incoming transactions.
+* The PTl_Adapter stores pictures and exchanges them for a URL to the picture.
+* In Freeflow the Access Transaction (entry and exit) are aggregated into one Parking Transaction.
+
+=== <Runtime Scenario 2>
+
+=== ...
+
+=== <Runtime Scenario n>
