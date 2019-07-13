@@ -19,3 +19,15 @@ The generated `.html` and `.pdf` files can be found in:
     
 under the `html` and `pdf` directories.
 
+How to add images?
+
+Add images under folder src/main/asciidoc/images.
+
+
+How to link images under any section(arch42)?
+
+Suppose, if you want to add images under section (05_building_block_view.adoc)
+
+
+image:Java_virtual_machine.png[Java Virtual Machine]
+
